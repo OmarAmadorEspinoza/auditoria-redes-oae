@@ -1,0 +1,12 @@
+# Entorno virtual y archivos Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Respaldos y reportes (datos sensibles)
+respaldos/
+*.log
+
+# Archivos locales de entorno
+.env
